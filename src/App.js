@@ -6,6 +6,8 @@ const App=()=>{
     <div >
 
       <h1> Todolist</h1>
+
+      <h2>2nd push</h2>
       
 
 
