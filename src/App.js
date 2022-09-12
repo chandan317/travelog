@@ -1,28 +1,24 @@
-const Todo=()=>{
+const App=()=>{
 
   return(
     
-    <>
-    <div classname="todo">
+    
+    <div >
 
       <h1> Todolist</h1>
-      <form>
+      
 
 
 
-<label>
-  Add todo list
-</label>
-<input>add </input>
 
 
-      </form>
+    
 
     </div>
 
 
-    </>
+  
   )
 
 }
-export default Todo;
+export default App;
